@@ -1,0 +1,30 @@
+.main {
+    /* margin: 0 auto; */
+    padding: 50px 40px; 
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.general {
+    display: flex;    
+}
+.photo {
+    width: 700px;
+    margin-right: 20px;
+    padding-top: 50px;
+}
+.photo img {
+    width: 100%;
+}
+.info {
+    color: #232323;
+    font-size: 20px;
+}
+.title {
+    color: indigo;
+    font-size: 30px;
+}
+.border-dot {
+    border-top: 1px dotted grey;
+}
